@@ -2,7 +2,9 @@
     border: white;
 }
 
-
+.container {
+  background-color: blanchedalmond;
+}
 
 /* Category shaded grey */
 .extra1{
